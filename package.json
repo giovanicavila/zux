@@ -1,0 +1,21 @@
+{
+  "name": "zux",
+  "displayName": "zux",
+  "description": "custom theme for vscode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "zux theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/zux theme-color-theme.json"
+      }
+    ]
+  }
+}
