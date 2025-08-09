@@ -3,9 +3,17 @@
   "displayName": "zux",
   "description": "custom theme for vscode",
   "version": "0.0.1",
+  "publisher": "giovaniavila",
   "engines": {
     "vscode": "^1.103.0"
   },
+  "keywords": [
+    "vscode",
+    "themes",
+    "theme",
+    "dark",
+    "purple"
+  ],
   "categories": [
     "Themes"
   ],
