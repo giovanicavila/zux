@@ -14,7 +14,7 @@
       {
         "label": "zux theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/zux theme-color-theme.json"
+        "path": "./themes/zux-theme-color-theme.json"
       }
     ]
   }
