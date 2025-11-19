@@ -3,7 +3,7 @@
   "displayName": "zux",
   "description": "custom theme for vscode",
   "version": "0.0.1",
-  "publisher": "giovaniavila",
+  "publisher": "giovanicavila",
   "engines": {
     "vscode": "^1.103.0"
   },
