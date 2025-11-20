@@ -34,9 +34,12 @@ It blends deep, rich purples with balanced contrast to keep your code readable w
 
 ---
 
+
 ## 📷 Preview
 
-<img width="1917" height="1029" alt="image" src="https://github.com/user-attachments/assets/80a693c9-5f58-4b1d-9623-571e3282a1f9" />
+<img width="500" height="700" alt="code" src="https://github.com/user-attachments/assets/0a59b337-782e-43da-8f42-46016a69fc5a"  />
+
+<img width="500" height="700" alt="code2" src="https://github.com/user-attachments/assets/39f006b2-fef3-4e23-889a-a38078585605" />
 
 
 
