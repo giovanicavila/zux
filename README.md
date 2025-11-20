@@ -16,6 +16,26 @@ It blends deep, rich purples with balanced contrast to keep your code readable w
 
 ## 📦 Installation
 
+### Quick Install via cli 
+
+**Linux/macOS:**
+```bash
+curl -fsSL https://raw.githubusercontent.com/giovanicavila/zux/main/install.sh | bash
+```
+
+**Windows (PowerShell):**
+```powershell
+irm https://raw.githubusercontent.com/giovanicavila/zux/main/install.ps1 | iex
+```
+
+### Manual Install via Command Line
+
+```bash
+code --install-extension giovanicavila.zux
+```
+
+### Install via VS Code
+
 1. Open **Visual Studio Code**.
 2. Go to the Extensions view (`Ctrl + Shift + X` or `Cmd + Shift + X` on macOS).
 3. Search for **Zux Theme**.
